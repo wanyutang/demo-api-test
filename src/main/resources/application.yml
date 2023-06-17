@@ -3,3 +3,10 @@ spring:
     group:
       default:
         - local
+logging:
+  level:
+    root: DEBUG
+    org.springframework: DEBUG
+info:
+  demo:
+    val1: demoVal1

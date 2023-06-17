@@ -1,4 +1,4 @@
-package com.jpa.config;
+package com.api.config;
 
 import org.springframework.context.annotation.Configuration;
 
